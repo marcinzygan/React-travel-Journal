@@ -1,12 +1,11 @@
 import Nav from "./Nav"
-import data from "./data"
 import Card from "./Card"
 
-
+import apiData from "./data"
 
 
 export default function App(){
-  const cards = data.map(item =>
+  const cards = apiData.map(item =>
     <Card
     key={item.id}
     {...item}

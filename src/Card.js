@@ -3,7 +3,7 @@ export default function Card(props){
     return(
 <>
         <div className="card">
-           <img src={props.imageUrl} className="card__img"></img>
+           <img src={props.imageUrl} className="card__img" alt="town"></img>
             <div className="card__info-container">
                 <div className="location__container">
                 <span className="iconify" data-icon="carbon:location-filled"></span>

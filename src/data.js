@@ -1,4 +1,4 @@
-export default [
+const  apiData = [
     {   
         id: 1,
         title: "Połczyn-Zdrój",
@@ -31,3 +31,5 @@ export default [
     }
     
 ]
+
+export default apiData
