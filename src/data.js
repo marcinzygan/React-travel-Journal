@@ -3,7 +3,7 @@ export default [
         id: 1,
         title: "Połczyn-Zdrój",
         location: "Poland",
-        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+        googleMapsUrl: "https://www.google.com/maps/place/78-320+Połczyn-Zdrój,+Poland/data=!4m2!3m1!1s0x4701a8e7a46ab6a3:0x115ba7d07d2394e0?sa=X&ved=2ahUKEwj46Jm6ysb2AhVViFwKHbVBDl8Q8gF6BAg4EAE",
         startDate: "01 Nov, 1984",
         endDate: "24 Jan, 1993",
         description: "Połczyn-Zdrój is a town in Świdwin County, West Pomeranian Voivodeship, Poland, with 11,153 inhabitants. It is located in the historic region of Pomerania.",
