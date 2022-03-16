@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcinzygan 
 
 - This is my project done in React 
-- This was done as a practice while learning react . 
+- This was done as a practice while learning React . 
 - March/2022
 - Used data.js file as a database and displayed all data on the card component with props . 
 - This project is live  >>> <a href="https://mz-react-travel-journal.netlify.app" >HERE</a> <<<
