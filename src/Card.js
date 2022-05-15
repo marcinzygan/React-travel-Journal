@@ -22,8 +22,3 @@ export default function Card(props){
 }
 
 
-// console.log(lastCard.lastElementChild);
-
-// lastCard.removeChild(lastCard.lastElementChild)
-    // console.log(lastCard.lastChild);
-
